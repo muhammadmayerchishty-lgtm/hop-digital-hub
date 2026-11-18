@@ -1,0 +1,6 @@
+{
+  "name": "HOP Digital Hub",
+  "description": "A professional digital coworking and learning environment for students, freelancers, professionals and businesses inside House of Professionals, Johar Town, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

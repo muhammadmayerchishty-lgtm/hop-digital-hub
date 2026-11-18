@@ -29,7 +29,7 @@ const AUDIENCE_TRACKS = [
 
 export default function AboutSection() {
   return (
-    <section id="about" className="bg-white py-20 sm:py-24 border-b border-[#1B1F1C]/8">
+    <section id="about" className="bg-white py-16 sm:py-20 border-b border-[#1B1F1C]/8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-start">
           <div className="lg:col-span-5">
